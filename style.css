@@ -1,0 +1,18 @@
+
+
+h1 {
+    font-size: 50px;
+    color: aqua;
+    font-weight: 200;
+}
+
+.Chickie {
+    color: aqua;
+}
+
+#first {
+    display: inline-block;
+    border: 2px darkcyan;
+    padding: 30px 0px;
+    margin: 50px 0px;
+}

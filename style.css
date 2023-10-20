@@ -1,18 +1,41 @@
-
+body {
+    background-color: black;
+    text-align: center;
+}
 
 h1 {
     font-size: 50px;
-    color: aqua;
+    color: orangered;
     font-weight: 200;
 }
 
+h2 {
+    font-size: 80%;
+    color: white;
+}
+
+h5 {
+    font-size: 80%;
+    color: grey;
+}
+
 .Chickie {
-    color: cadetblue;
+    color: coral;
 }
 
 #first {
     display: inline-block;
-    border: 2px darkcyan;
-    padding: 30px 0px;
-    margin: 50px 0px;
+    border: 2px lightsalmon solid;
+    background-color: bisque;
+    padding: 10% 10%;
+    margin: 5% 5%;
+}
+
+.container {
+    display: inline-block;
+    height: 50%;
+    width: 50%;
+    border: 2px lightsalmon solid;
+    background-color: wheat;
+    padding: 5% 5%;
 }
